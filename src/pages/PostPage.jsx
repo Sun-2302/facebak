@@ -54,7 +54,7 @@ const PostPage = () => {
       <NavBar />
       <div className="flex flex-col min-h-screen border w-[598px] ml-[318px]">
         <NavPost />
-        <div className="container flex-grow ">
+        <div className="container flex-grow mt-[53px]">
           <div className="pl-4 mb-0">
             <Post 
               postId={post.id}
