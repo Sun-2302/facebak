@@ -30,7 +30,7 @@ export default function ProfilePage() {
                           <EditProfileButtons />
                       </div>
                    </div>
-                     <ProfileDetails bio={user.bio} joinedAt={user.joinedAt} username={user.username} />
+                     <ProfileDetails bio="" joinedAt="" username="" />
                </div>
           </div>
         </div>
